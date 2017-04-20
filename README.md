@@ -1,2 +1,4 @@
 # myCA-chat-server
-A cmd server for myCA-chat-client
+A C# command line server for myCA-chat-client
+
+USAGE: Open project in Visual Studio and build the project.
