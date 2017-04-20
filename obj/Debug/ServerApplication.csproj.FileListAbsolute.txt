@@ -1,0 +1,6 @@
+C:\Programming\C#\ChatAttempt6\ServerApp\ServerApplication\bin\Debug\ServerApplication.exe.config
+C:\Programming\C#\ChatAttempt6\ServerApp\ServerApplication\bin\Debug\ServerApplication.exe
+C:\Programming\C#\ChatAttempt6\ServerApp\ServerApplication\bin\Debug\ServerApplication.pdb
+C:\Programming\C#\ChatAttempt6\ServerApp\ServerApplication\obj\Debug\ServerApplication.csprojResolveAssemblyReference.cache
+C:\Programming\C#\ChatAttempt6\ServerApp\ServerApplication\obj\Debug\ServerApplication.exe
+C:\Programming\C#\ChatAttempt6\ServerApp\ServerApplication\obj\Debug\ServerApplication.pdb
